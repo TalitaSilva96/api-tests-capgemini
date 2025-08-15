@@ -38,7 +38,9 @@ bash
 Copiar
 Editar
 npx cypress run
-📂 Estrutura do projeto
+
+
+# 📂 Estrutura do projeto
 pgsql
 Copiar
 Editar
@@ -54,14 +56,17 @@ cypress/
 │
 └─ support/
     └─ index.js          → configurações gerais do Cypress
-🐞 Bugs encontrados
+
+
+# 🐞 Bugs encontrados
 Usuários: isAdmin não retornado em alguns endpoints
 
 Tickets: title não retornado em alguns endpoints
 
 Testes de schema falham nestes casos, já reportados
 
-💡 Sugestões de melhorias
+
+# 💡 Sugestões de melhorias
 Garantir consistência de campos obrigatórios e estrutura JSON
 
 Padronizar mensagens de erro
@@ -72,7 +77,8 @@ Consistência nos status codes
 
 Implementar autenticação e controle de acesso
 
-📌 Contato
+
+# 📌 Contato
 Talita Silva
 
 GitHub: https://github.com/TalitaSilva96
